@@ -48,3 +48,22 @@ associated with smoking (YES = 2, NO = 1)
 ❖ CHEST_PAIN: Presence of chest pain (YES = 2, NO = 1)
 
 ❖ LUNG_CANCER: Presence of lung cancer (YES, NO)
+
+Conclusion -
+In this Lung Cancer Prediction Project, I developed a machine learning model to predict the likelihood of lung cancer based on a given set of features. The models, including Logistic Regression, Decision Tree Classifier, and Random Forest Classifier, demonstrated strong predictive performance.
+Our analysis of the dataset revealed several insights:
+Lung cancer was more prevalent in males than females.
+Several factors were identified as contributing to an increased risk of lung cancer, including:
+Older age
+Smoking
+Yellow fingers
+Peer pressure
+Chronic disease
+Fatigue
+Allergies
+Wheezing
+Alcohol consumption
+Coughing
+Shortness of breath
+Chest pain
+These findings underscore the importance of early detection and awareness of risk factors associated with lung cancer. The predictive model developed in this project can potentially assist in identifying individuals at higher risk, enabling timely medical consultations and interventions.
